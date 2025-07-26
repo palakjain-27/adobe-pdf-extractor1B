@@ -1,0 +1,91 @@
+{
+  "metadata": {
+    "input_documents": [
+      "a.pdf",
+      "b.pdf",
+      "c.pdf",
+      "d.pdf",
+      "e.pdf"
+    ],
+    "persona": "University student on a budget",
+    "job_to_be_done": "Wants structured bodyweight and minimal-equipment routines for strength and fitness",
+    "processing_timestamp": "2025-07-26T08:31:38.643486"
+  },
+  "extracted_sections": [
+    {
+      "document": "e.pdf",
+      "page_number": 1,
+      "section_title": "Strength Training at Home",
+      "importance_rank": 1
+    },
+    {
+      "document": "c.pdf",
+      "page_number": 1,
+      "section_title": "CONTENTS",
+      "importance_rank": 2
+    },
+    {
+      "document": "c.pdf",
+      "page_number": 1,
+      "section_title": "No Equipment Home Workouts:\nstrength workouts",
+      "importance_rank": 3
+    },
+    {
+      "document": "c.pdf",
+      "page_number": 2,
+      "section_title": "Bodyweight \nSquats",
+      "importance_rank": 4
+    },
+    {
+      "document": "b.pdf",
+      "page_number": 3,
+      "section_title": "Week  1  \nStrength  \n#1",
+      "importance_rank": 5
+    },
+    {
+      "document": "b.pdf",
+      "page_number": 3,
+      "section_title": "Cond.  #1  Strength",
+      "importance_rank": 6
+    },
+    {
+      "document": "b.pdf",
+      "page_number": 3,
+      "section_title": "Cond.  #2  Strength",
+      "importance_rank": 7
+    },
+    {
+      "document": "b.pdf",
+      "page_number": 3,
+      "section_title": "Week  2  \nStrength  \n#1",
+      "importance_rank": 8
+    },
+    {
+      "document": "b.pdf",
+      "page_number": 3,
+      "section_title": "Cond.  #1  Strength",
+      "importance_rank": 9
+    },
+    {
+      "document": "b.pdf",
+      "page_number": 3,
+      "section_title": "Cond.  #2  Strength",
+      "importance_rank": 10
+    },
+    {
+      "document": "c.pdf",
+      "page_number": 5,
+      "section_title": "Bodyweight \nSquats",
+      "importance_rank": 11
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "c.pdf",
+      "page_number": 1,
+      "refined_text": "2x/Week No-Equipment Strength Workout (Beginner). .",
+      "full_text": "2x/Week No-Equipment Strength Workout (Beginner). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n2x/Week No-Equipment Strength Workout (Intermediate). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n2x/Week No-Equipment Strength Workout (Advanced). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n4x/Week No-Equipment Strength Workout (Beginner). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n4x/Week No-Equipment Strength Workout (Intermediate). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n4x/Week No-Equipment Strength Workout (Advanced). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n6x/Week No-Equipment Strength Workout (Beginner). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n6x/Week No-Equipment Strength Workout (Intermediate). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n6x/Week No-Equipment Strength Workout (Advanced). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n2\n3\n4\n5\n6\n7\n8\n9\n10\nThe key to strength training is performing challenging exercises for repetitions and \nmultiple sets. To make an exercise more challenging in the gym, one simply lifts \nheavier weights. At home, and with little or no equipment, the exercises themselves \nmust become more challenging.\nThis guide is designed to help you build or maintain strength without equipment \nwhile away at home. Herein are weekly workouts for those that wish to train 2, 4, or 6 \ntimes each week. Each of these programs includes ways to make the exercises harder \nor easier depending on your fitness levels and goals.\nIn addition to this strength program, aerobic exercise is necessary for maintaining \ngood health as well as helping stay fit and de-stress while we’re all at home. See \nthe following pages and select the workout that is most appropriate for you. Above \nall, listen to your body and use your best judgement when approaching an exercise \nprogram on your own.\nBecause of copyright, all images and videos are linked to the original source online \nrather than embedded in this guide. Should any of the image/video/descriptions fail, \nplease contact Sam Twito (twito@utexas.edu).\n2x/Week: Beginner\n#\n1\n2\n3\n4\n5\n6\n7\n8\n9",
+      "subsection_id": "CONTENTS_sub_1"
+    }
+  ]
+}
