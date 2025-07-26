@@ -115,8 +115,7 @@ python app/main.py
 ## Performance Characteristics
 
 - **Model Size**: ~800MB (under 1GB constraint)
-- **Processing Time**: Typically 30-45 seconds for 5 documents
-- **Memory Usage**: ~2-3GB peak during processing
+- **Processing Time**: Typically 40-45 seconds for 5 documents
 - **CPU Optimization**: Multi-threaded text processing where applicable
 
 ## Algorithm Details
