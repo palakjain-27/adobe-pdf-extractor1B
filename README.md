@@ -129,7 +129,6 @@ python app/main.py
 ### Section Selection
 - Top 25 most relevant sections selected for output (if 25 are there based on similarity)
 - Minimum relevance threshold of 0.1 to ensure quality
-- Balanced representation across input documents when possible
 
 ### Subsection Extraction
 - Paragraph-level granularity for detailed analysis
